@@ -9,7 +9,7 @@ keeping the chat clean and unpopulated
 
 [![Discord-bot Text-hyperlink-with-description-embed](DrexxBot\node_modules\tumb.png)](https://youtu.be/FIamjllf4t8)
 
----
+
 ## Command form
 
 
@@ -23,7 +23,7 @@ keeping the chat clean and unpopulated
 * !link DiscordJS https://discord.js.org/#/
 --> [DiscordJS](https://discord.js.org/#/)
 
----
+
 
 ## Starting the project
 
@@ -34,14 +34,14 @@ keeping the chat clean and unpopulated
 
 ** Type in `npm install` and `node mybot.js` without `[]` parantences!
 
----
+
 ## License & Copyright
 
 (C) Boban Banjevic, Podgorica Montenegro
 
 Licensed under the [GNU General Public License v3.0](LICENSE).
 
-<hr>
+
 <br>
 ** Hope this bot helped you and your discord server!
 
