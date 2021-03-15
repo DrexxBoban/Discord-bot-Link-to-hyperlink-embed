@@ -41,8 +41,8 @@ keeping the chat clean and unpopulated
 
 Licensed under the [GNU General Public License v3.0](LICENSE).
 
+## Final
 
-<br>
 ** Hope this bot helped you and your discord server!
 
 
