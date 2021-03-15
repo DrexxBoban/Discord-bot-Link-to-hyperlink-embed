@@ -21,7 +21,6 @@ keeping the chat clean and unpopulated
 -->  [DiscordJS](https://discord.js.org/#/) - This is a link to the discord.js page
 
 * !link DiscordJS https://discord.js.org/#/
-
 --> [DiscordJS](https://discord.js.org/#/)
 
 ---
