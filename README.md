@@ -27,12 +27,10 @@ keeping the chat clean and unpopulated
 
 ## Starting the project
 
-* Once you pull the file from the repository, go into mybot.js file and inside of a console or a terminal type [`npm install`].
+* Once you pull the file from the repository, go into mybot.js file and inside of a console or a terminal type `npm install`.
 * You have to also go to https://discord.com/developers/ and make a bot.
 * In the last line of code instead of `"Type in bot's Token"` string in mybot.js file, type in your bot's Token.
-* To start a project type in [`node mybot.js`] in the console or terminal.
-
-** Type in `npm install` and `node mybot.js` without `[]` parantences!
+* To start a project type in `node mybot.js` in the console or terminal.
 
 
 ## License & Copyright
