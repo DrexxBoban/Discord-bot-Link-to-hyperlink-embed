@@ -86,5 +86,4 @@ client.on('ready', () => {
 
 //Type Your bot's Token here once you create it at discord.com/developers//
 
-// client.login("ODE5OTA4NjczNTI1OTA3NDY4.YEtddA.n8sR10500RWFyzoXFtIBnNKD150")
 client.login("Type in bot's Token")
