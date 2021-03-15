@@ -7,7 +7,7 @@ keeping the chat clean and unpopulated
 
 ** Preview of this program can be found on this youtube link `(click on the img)`
 
-[![Discord-bot Text-hyperlink-with-description-embed-video](DrexxBot\node_modules\tumb.png)](https://youtu.be/KJ-WFbjkQmo)
+![Discord-bot Text-hyperlink-with-description-embed-video][(DrexxBot\node_modules\tumb.png)](https://youtu.be/KJ-WFbjkQmo)
 
 
 ## Command form
