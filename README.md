@@ -5,7 +5,7 @@
 * Code message that you type, will be automatically deleted,
 keeping the chat clean and unpopulated
 
-** Preview of this program can be found on this youtube link `(click on the img)`
+** Preview of this program can be found on this youtube link `(click on the hyperlink down below)`
 
 [Discord-bot Text-hyperlink-with-description-embed-video](https://youtu.be/KJ-WFbjkQmo)
 
