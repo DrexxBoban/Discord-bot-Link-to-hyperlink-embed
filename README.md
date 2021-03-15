@@ -47,3 +47,6 @@ Licensed under the [GNU General Public License v3.0](LICENSE).
 
 
 ** Feel free to share this with as many people as you want.
+
+
+**And if you plan to continue of this project, hope u give me a shoutout :>
